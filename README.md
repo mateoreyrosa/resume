@@ -1,2 +1,2 @@
 # Resume
-My latest resume 2023
+My latest resume
